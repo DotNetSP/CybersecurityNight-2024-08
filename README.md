@@ -11,11 +11,11 @@ Painel que aconteceu durante o evento:
 * **Segurança no mundo real: de boas práticas à resolução de incidentes!**
 
 Participantes do Painel:
-- Renato Groffe (Microsoft MVP, MTAC)
-- Thiago Bertuzzi (Microsoft MVP)
-- Daniel Donda (Microsoft MVP)
-- Ricardo Esper (Founder & CEO da NESS)
-- Johnson da Souza Cruz (Microsoft MVP, MTAC)
+- **Renato Groffe (Microsoft MVP, MTAC)**
+- **Thiago Bertuzzi (Microsoft MVP)**
+- **Daniel Donda (Microsoft MVP)**
+- **Ricardo Esper (Founder & CEO da NESS)**
+- **Johnson da Souza Cruz (Microsoft MVP, MTAC)**
 
 Tecnologias e tópicos abordados: **OWASP, Microsoft Azure, Azure API Management, Microsoft Entra ID, Azure Key Vault, Docker, Kubernetes .NET, ASP.NET Core, C#**
 
