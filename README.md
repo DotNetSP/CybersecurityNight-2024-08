@@ -21,6 +21,8 @@ Tecnologias e tópicos abordados: **OWASP, Microsoft Azure, Azure API Management
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
+Link da transmissão: [**YouTube**](https://www.youtube.com/watch?v=HF9Ow7t67GM)
+
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) e o [**Microsoft Reactor**](https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/).
 
 Formulário utilizado para inscrições: [**Microsoft Reactor**](https://developer.microsoft.com/pt-br/reactor/events/23170/?wt.mc_id=3reg_23170_webpage_reactor)
